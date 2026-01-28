@@ -10,7 +10,13 @@
 └── README.md    # Project documentation
 ```
 
-## ⚡ One-Line Quick Start
+## ⚡ One-Line Quick Start (**run.sh**)
+```sh
+curl -LO https://raw.githubusercontent.com/JtnTech/-Compute-Engine-Qwik-Start---Windows/refs/heads/main/jtntech.sh
+chmod +x jtntech.sh
+./jtntech.sh
+
+```
 
 ```bash
 #!/bin/bash
@@ -77,3 +83,30 @@ echo "${BLUE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@JatinTra
 echo
 
 ```
+
+<div align="center">
+
+### 🚀 Follow & Support **JtnTech**
+
+<div align="center">
+  <a href="https://github.com/JtnTech">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@JatinTrails">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="28"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/firstcodejatin">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28"/>
+  </a>
+</div>
+
+<br><br>
+
+⭐ **Star this repo** if it helped you  
+📺 **Subscribe on YouTube**  
+💡 **Learn • Build • Deploy with JtnTech**
+
+</div>
+
+---
+
