@@ -10,7 +10,8 @@
 └── README.md    # Project documentation
 ```
 
-## ⚡ One-Line Quick Start (**run.sh**)
+## ⚡ One-Line Quick Start
+**run.sh**
 ```sh
 curl -LO https://raw.githubusercontent.com/JtnTech/-Compute-Engine-Qwik-Start---Windows/refs/heads/main/jtntech.sh
 chmod +x jtntech.sh
@@ -18,6 +19,10 @@ chmod +x jtntech.sh
 
 ```
 
+## 📜 Original Full Deployment Script:
+> 📋 Tip: You can copy the entire script below using the Copy button.
+
+**jtntech.sh**
 ```bash
 #!/bin/bash
 
